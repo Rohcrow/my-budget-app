@@ -1,0 +1,12 @@
+{
+  "name": "my-apps-api",
+  "version": "1.0.0",
+  "description": "Azure Function API for budget app",
+  "main": "index.js",
+  "scripts": {
+    "start": "func start"
+  },
+  "dependencies": {
+    "@azure/cosmos": "^4.0.0"
+  }
+}
